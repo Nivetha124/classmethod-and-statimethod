@@ -1,0 +1,1 @@
+# classmethod-and-statimethod
